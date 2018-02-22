@@ -1,6 +1,6 @@
-# Corbin does dotfiles
+# Chad tries dotfiles
 
-My fork of [Stacks does dotfiles](https://github.com/jonstacks/dotfiles) which is
+My fork of [Corbin does dotfiles](https://github.com/kecorbin/dotfiles) which is a fork of [Stacks does dotfiles](https://github.com/jonstacks/dotfiles) which is
 a fork of [holman does dotfiles](https://github.com/holman/dotfiles) so pick your
 own starting poison...
 
@@ -43,7 +43,7 @@ There's a few special files in the hierarchy.
 Run this:
 
 ```sh
-git clone https://github.com/kecorbin/dotfiles.git ~/.dotfiles
+git clone https://github.com/chapeter/dotfiles.git ~/.dotfiles
 cd ~/.dotfiles
 script/bootstrap
 ```
