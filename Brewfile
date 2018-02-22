@@ -2,6 +2,7 @@ cask_args appdir: '/Applications'
 
 tap 'homebrew/bundle'
 
+brew 'ansible'
 brew 'awscli'
 brew 'coreutils'
 brew 'fleetctl'
@@ -17,6 +18,7 @@ brew 'parallel'
 brew 'pass'
 brew 'postgresql'
 brew 'pyenv'
+brew 'python2'
 brew 'python3'
 brew 'terraform'
 
